@@ -1,6 +1,5 @@
-
 <p align="center">
-  <a href="https://github.com/Lalpekhlua11">
+  <a href="https://github.com/solino1337">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&center=true&vCenter=true&width=520&lines=Software+Engineer+Graduate;Backend+Developer;Freelancer">
   </a>
 </p>
@@ -45,9 +44,9 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lalpekhlua11&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solino1337&theme=dark&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalpekhlua11&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solino1337&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
 </div>
 
@@ -55,8 +54,8 @@
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Lalpekhlua11&theme=dark)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=solino1337&theme=dark)
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalpekhlua11&theme=merko&line=1391CF&bg_color=20232a&hide_border=true&custom_title=My+Contribution+Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solino1337&theme=merko&line=1391CF&bg_color=20232a&hide_border=true&custom_title=My+Contribution+Graph" width="100%">
 
 </div>
